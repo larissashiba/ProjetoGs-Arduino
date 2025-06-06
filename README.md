@@ -101,4 +101,4 @@ Este sistema possibilita acompanhamento 24h, documentação e ações preventiva
 
 ## ▶️ Vídeo demonstrativo e explicativo
 
-[Link do vídeo explicativo](link)
+[Link do vídeo explicativo](https://youtu.be/xOHsdMRryiM)
